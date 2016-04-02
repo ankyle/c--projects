@@ -3,6 +3,7 @@
 // Editor(s) used: Win 10 Notepad++
 // Compiler(s) used: MinGW
 // Description: Rock Paper Scissors
+// some bsearch
 
 #include <iostream>
 #include <ctime>
